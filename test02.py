@@ -1,5 +1,5 @@
 def say_hellow(name = "unkown"):
-    print("say hello", name)
+    print("say hello", name[2])
 
 def count_down():
     for a in range(1,10,1):
@@ -18,4 +18,3 @@ while code != "exit":
 
 for z in range(32,1000):
     print(chr(z), end="")
-    
