@@ -1,0 +1,18 @@
+[
+	{"id":1,
+	"name": "SNES",
+	"price": 199,
+	"games": [
+			"mario",
+			"Zelda"
+		]
+	},
+	{"id":2,
+		"name": "Mega Drive",
+		"price": 149,
+		"games": [
+				"Sonic",
+				"Columns"
+			]
+	}
+]
