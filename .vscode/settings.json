@@ -1,3 +1,11 @@
 {
+<<<<<<< Updated upstream
     "python.pythonPath": "/usr/bin/python3"
+=======
+<<<<<<< HEAD
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe"
+=======
+    "python.pythonPath": "/usr/bin/python3"
+>>>>>>> 264ebaf788244ec8c704f98eec40815ef3942cdc
+>>>>>>> Stashed changes
 }
