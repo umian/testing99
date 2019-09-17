@@ -1,0 +1,202 @@
+[33mcommit e710448c776abcf56d279d6f53aa1d432587ecd3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Wed Jul 10 23:11:05 2019 -0600
+
+    added settings.json to ignore
+
+[33mcommit 82c6a26b99be75a0f92d3f7f4c17e00481edad32[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Wed Jul 10 23:02:06 2019 -0600
+
+    rebalace the code
+
+[33mcommit 264ebaf788244ec8c704f98eec40815ef3942cdc[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Tue May 28 17:24:38 2019 -0600
+
+    commit from ato
+
+[33mcommit ab1f8deb054cfc49833fa5b7c3b6530c74a1eaf2[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Tue May 28 15:56:04 2019 -0600
+
+    this is a test
+
+[33mcommit 1ca7d0843d3315bef58297cc70850ae7ef9ccf1c[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Mon May 20 12:12:59 2019 -0600
+
+    class stuff
+
+[33mcommit 52083219b7d9b816d87df7646c72b724f5161339[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Mon May 20 10:49:33 2019 -0600
+
+    working with class objects
+
+[33mcommit dec86c5147f670d5e62c5df41d7e449a405b0fe5[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri May 17 15:51:51 2019 -0600
+
+    gui parts
+
+[33mcommit 536c5baaf36bbccc51c856b5ef10f4166f4b2f4a[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri May 17 14:53:41 2019 -0600
+
+    new files with games
+
+[33mcommit 4eeed7a6dbc7d79c2bee6b188b6c6fd3faee8046[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Mon Apr 29 11:25:39 2019 -0600
+
+    add img program
+
+[33mcommit 00d0852dfcf678b5505d81e7750091410167eb04[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Mon Apr 29 10:56:04 2019 -0600
+
+    socket and random modules
+
+[33mcommit 9e4e4ab683a57acbec9bc2e41b1644b50c4394e9[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Apr 26 15:31:33 2019 -0600
+
+    add math and time modules
+
+[33mcommit 45381e9f89fa78edba7ce5edeaa47810172476c5[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Apr 26 15:03:50 2019 -0600
+
+    new code for json and imports
+
+[33mcommit 378d1c308ac8ade3f9fd785395435012700c1427[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Mon Apr 22 11:38:26 2019 -0600
+
+    this is new files
+
+[33mcommit 509eb8c49c2d0d9b81e1923850b086c794a5a3b0[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Mon Apr 8 14:13:29 2019 -0600
+
+    new file on Monday
+
+[33mcommit 27df7f6b1c3eb06e1ad891f43dae147fd28fa07a[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Thu Mar 21 15:45:54 2019 -0600
+
+    todaya work
+
+[33mcommit b70d95872759ec26bc681ecca1b4342d6d85f199[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Tue Mar 19 15:42:55 2019 -0600
+
+    this is the next steps
+
+[33mcommit 61986448f8679ed7d12e7052998dcb1ce95d613c[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Tue Mar 19 15:21:26 2019 -0600
+
+    new file
+
+[33mcommit b85b74abfb579c3c25d5ff60692d6a10a0f85f03[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Tue Mar 12 11:22:36 2019 -0600
+
+    this is initial checking
+
+[33mcommit b7ec2537a219ee5059029e0a23fcaba7e75c8d3c[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Tue Mar 12 10:59:47 2019 -0600
+
+    Login add user name password
+
+[33mcommit 7bce06690a7cf43b62392342e1b115986f8b5e6c[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Tue Mar 12 10:50:56 2019 -0600
+
+    testing02
+
+[33mcommit 1b1de5bb64e9ca7a1c858b2f965c5e412a74c44b[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Tue Mar 12 10:39:15 2019 -0600
+
+    this is a test
+
+[33mcommit 617ece7a8fcc902332ddcb45beb6ee88943cbbe3[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Tue Mar 12 10:30:42 2019 -0600
+
+    testing
+
+[33mcommit 4340f1fddb27da99a7eaa192602d90aef8b032a3[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:27:37 2019 -0700
+
+    remote file update
+
+[33mcommit bdd8a097efa5d741e39724f39ed0a627f8cb1618[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:26:14 2019 -0700
+
+    Update readme.md
+    
+    just testing
+
+[33mcommit 36569e72a610538a24b4746554b8a6e9c9648420[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:25:24 2019 -0700
+
+    remote file
+
+[33mcommit 979fb26d4d0c320a64c5761e5cd32318ba805563[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:20:58 2019 -0700
+
+    Added readme
+
+[33mcommit 554d37198e06fe3f62b0fdd1b26b068ff289f039[m
+Merge: 721cf71 462d3e7
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:15:57 2019 -0700
+
+    Merge branch 'login'
+    
+    added login page
+
+[33mcommit 462d3e751e6a635ae425c1c56455dfd8a6feef32[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:15:09 2019 -0700
+
+    loging work and indes
+
+[33mcommit 0c6be83ffe408dd7822eeed54dfe4fbedc1a6654[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:14:05 2019 -0700
+
+    loging work
+
+[33mcommit 37a9048d8832854150d153bf5f3ecfa75f7befa9[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:13:03 2019 -0700
+
+    loging work
+
+[33mcommit 721cf717e0e1fb0f14d242fdff31cb255edae20b[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:11:45 2019 -0700
+
+    miss changes
+
+[33mcommit fd42a8c598470baa792f9c420a29055f34a51125[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:06:38 2019 -0700
+
+    changes app.js
+
+[33mcommit 6a39d844228c9bcb74e834a5fbaa200b9d92536e[m
+Author: Usman Mian <usman@usmanmian.net>
+Date:   Fri Mar 8 12:03:55 2019 -0700
+
+    initial commit
